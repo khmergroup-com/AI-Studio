@@ -231,6 +231,7 @@ All files, recordings, and databases are stored in your local application direct
 ---
 
 ## 🤝 Community & Support
+- **Telegram Community**: [Join Official Telegram Group](https://t.me/+mW-0Ll3Sb8A2NzBl)
 - **Release Hub**: [github.com/khmergroup-com/AI-Studio](https://github.com/khmergroup-com/AI-Studio)
 - **Report an Issue**: Submit bug reports and feature requests on our GitHub Issues page.
 - **License**: AI Studio Commercial EULA (see [LICENSE](file:///Users/sokhapen/Documents/videodubbing/LICENSE)).
